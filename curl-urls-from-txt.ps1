@@ -34,4 +34,4 @@ Write-Host "Done!"
 Write-Host "Curl output saved to: $outputFile  <-------------------"
 Write-Host "___________________________________________________________________"
 # Show the contents of the output file
-cat $output_file
+cat $outputFile
